@@ -1,0 +1,94 @@
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x86\msvcp120.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x86\msvcr120.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x86\opencv_world310.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x64\msvcp120.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x64\msvcr120.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x64\opencv_world310.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Data\haarcascade_frontalface_alt2.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\LiveCameraSample.exe.config
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\LiveCameraSample.exe
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\LiveCameraSample.pdb
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Common.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Newtonsoft.Json.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.Blob.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.Extensions.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\System.Net.Http.Extensions.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\System.Net.Http.Primitives.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\VideoFrameAnalyzer.dll
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\VideoFrameAnalyzer.pdb
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\Newtonsoft.Json.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.Blob.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\OpenCvSharp.Extensions.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\System.Net.Http.Extensions.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\bin\Debug\System.Net.Http.Primitives.xml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample.csprojResolveAssemblyReference.cache
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\MainWindow.g.cs
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\App.g.cs
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample_Content.g.cs
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample_MarkupCompile.cache
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample_MarkupCompile.lref
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\App.baml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\MainWindow.baml
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample.g.resources
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample.Properties.Resources.resources
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample.csproj.GenerateResource.Cache
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample.exe
+D:\C Sharp\Cognitive-Samples-VideoFrameAnalysis-master\Windows\LiveCameraSample\obj\Debug\LiveCameraSample.pdb
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\LiveCameraSample.exe.config
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample.exe
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample.pdb
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x86\msvcp120.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x86\msvcr120.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x86\opencv_world310.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x86\opencv_ffmpeg310.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x64\msvcp120.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x64\msvcr120.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x64\opencv_world310.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\dll\x64\opencv_ffmpeg310_64.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Data\haarcascade_frontalface_alt2.xml
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\LiveCameraSample.exe
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\LiveCameraSample.pdb
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Common.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Emotion.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Microsoft.ProjectOxford.Vision.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Newtonsoft.Json.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.Blob.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.Extensions.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.UserInterface.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\System.Net.Http.Extensions.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\System.Net.Http.Primitives.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\VideoFrameAnalyzer.dll
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\VideoFrameAnalyzer.pdb
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\Newtonsoft.Json.xml
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.xml
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.Blob.xml
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\OpenCvSharp.Extensions.xml
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\System.Net.Http.Extensions.xml
+D:\C Sharp\Windows 1\LiveCameraSample\bin\Debug\System.Net.Http.Primitives.xml
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample.csprojResolveAssemblyReference.cache
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\MainWindow.g.cs
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\App.g.cs
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample_Content.g.cs
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample_MarkupCompile.cache
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample_MarkupCompile.lref
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\App.baml
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\MainWindow.baml
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample.g.resources
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample.Properties.Resources.resources
+D:\C Sharp\Windows 1\LiveCameraSample\obj\Debug\LiveCameraSample.csproj.GenerateResource.Cache
